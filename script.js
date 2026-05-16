@@ -44,7 +44,7 @@ function updateLang(lang) {
     document.getElementById('nav-programs').innerText = translations[lang].navPrograms;
     document.getElementById('nav-contact').innerText = translations[lang].navContact;
 
-    document.getElementById('hero-tag').innerText = translations[lang].tag;
+    // document.getElementById('hero-tag').innerText = translations[lang].tag;
     document.getElementById('hero-btn').innerText = translations[lang].btn;
 
     document.getElementById('vision-head').innerText = translations[lang].visionHead;
