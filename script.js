@@ -1,7 +1,7 @@
 const translations = {
     en: {
         navVision: "Vision", navPrograms: "Programs", navContact: "Contact",
-        tag: "Service through humility, direction through mastery.",
+        tag: "नम्रतेतून सेवा, स्वामित्वातून दिशा",
         btn: "BOOK A SESSION",
         visionHead: "Our Vision",
         visionText: "To empower every individual to find their strength through a balance of physical discipline and mental peace. We believe in movement that nurtures the soul.",
@@ -25,7 +25,7 @@ const translations = {
     },
     hi: {
         navVision: "संकल्प", navPrograms: "कार्यक्रम", navContact: "संपर्क",
-        tag: "विनम्रता से सेवा, विशेषज्ञता से दिशा",
+        tag: "नम्रतेतून सेवा, स्वामित्वातून दिशा",
         btn: "सत्र बुक करें",
         visionHead: "हमारा संकल्प",
         visionText: "शारीरिक अनुशासन और मानसिक शांति के संतुलन के माध्यम से हर व्यक्ति को अपनी शक्ति खोजने के लिए सशक्त बनाना। हमारा मानना है कि गतिविधि आत्मा को पोषण देती है.",
